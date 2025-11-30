@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "lemon";
+	src: url("../fons/lemon-tuesday/Lemon\ Tuesday.otf");
+}
+@font-face {
+    font-family: "wildrune";
+    src: url("../fons/wild_rune/Wild\ Rune.otf");
+}
+@font-face {
+    font-family: "handwrite";
+    src: url("");
+}
+@font-face {
+    font-family: "modern";
+    src: url("");
+}
+h1 {
+    font-family: "lemon";
+    font-size: 100px;
+    color: brown;
+}
+.font1 {
+    font-family: "wildrune";
+}
+.font3 {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+.font2 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
